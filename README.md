@@ -42,6 +42,11 @@ Compatibility
 
 Tested on Python 2.7.9 and Python 3.4.2
 
+Last Updated
+------------
+
+2015-01-26
+
 Licence
 -------
 
